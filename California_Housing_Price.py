@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn import datasets
 from sklearn.ensemble import RandomForestRegressor
 from joblib import dump, load
 # Title - The title and introductory text and images are all written in Markdown format here, using st.write()
